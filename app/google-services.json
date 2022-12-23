@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "600677389013",
+    "firebase_url": "https://responsi-beritaku-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "responsi-beritaku",
+    "storage_bucket": "responsi-beritaku.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600677389013:android:4c7a490b377853445ac85c",
+        "android_client_info": {
+          "package_name": "com.krealif.beritaku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600677389013-0u4h1ggitibi7qlgk35uh8r9akc12160.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUN13WPFwXW6nHETo0lGfB3J3Xd2k3454"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600677389013-0u4h1ggitibi7qlgk35uh8r9akc12160.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

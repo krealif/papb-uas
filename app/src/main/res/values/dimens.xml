@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_title">26dp</dimen>
+    <dimen name="toolbar_marginV">16dp</dimen>
+    <dimen name="toolbar_marginH">24dp</dimen>
+    <dimen name="app_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
